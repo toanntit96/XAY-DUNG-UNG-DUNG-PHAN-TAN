@@ -1,0 +1,6 @@
+D:\DH-CNTT-K39\XAY DUNG UNG DUNG PHAN TAN\BAI TAP\DEMO 1\Client\bin\Debug\Client.exe.config
+D:\DH-CNTT-K39\XAY DUNG UNG DUNG PHAN TAN\BAI TAP\DEMO 1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\DH-CNTT-K39\XAY DUNG UNG DUNG PHAN TAN\BAI TAP\DEMO 1\Client\bin\Debug\Client.exe
+D:\DH-CNTT-K39\XAY DUNG UNG DUNG PHAN TAN\BAI TAP\DEMO 1\Client\bin\Debug\Client.pdb
+D:\DH-CNTT-K39\XAY DUNG UNG DUNG PHAN TAN\BAI TAP\DEMO 1\Client\obj\Debug\Client.exe
+D:\DH-CNTT-K39\XAY DUNG UNG DUNG PHAN TAN\BAI TAP\DEMO 1\Client\obj\Debug\Client.pdb
